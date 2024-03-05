@@ -5,3 +5,5 @@
 *.synctex.gz
 *.synctex(busy)
 *.mx1
+*.lua
+_markdown_main
