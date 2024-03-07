@@ -4,17 +4,17 @@
 : Yilmar García
 
 \rcClockSymbol{} Ready in
-: 30 minutes
+: 5 minutes
 
 \rcServingSymbol{} Serves
 : 1
 
 ## Ingredients
 
-- 3 ounces of pisco
-- 1 ounce of lemon juice
-- 1 ounce of gum syrup
+- 3 oz of pisco
+- 1 oz of lemon juice
+- 1 oz of gum syrup
 - 4 ice cubes
-- Egg white
+- 1 egg white
 
 > Pisco Sour is delicious!

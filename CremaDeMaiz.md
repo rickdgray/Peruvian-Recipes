@@ -4,7 +4,7 @@
 : Yilmar García
 
 \rcClockSymbol{} Ready in
-: 30 minutes
+: 15 minutes
 
 \rcServingSymbol{} Serves
 : 1
@@ -12,11 +12,9 @@
 ## Ingredients
 
 - 75g of fresh corn
-- 10g of huacatay (Peruvian Black Mint), can be replaced with native spices.
+- 10g of huacatay (Peruvian black mint) or other native spices
 - ¼ onion
-- Salt to taste
-- Egg white
+- Salt (to taste)
+- 1 egg white
 
-> Crema de Maíz is delicious! 
-
-![](spaghetti-787048_1280 "Photo by Mom \cczero{}")
+![](ceviche "Ceviche")
